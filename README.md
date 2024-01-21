@@ -1,2 +1,2 @@
-# Projet
-C'est répository est pour pratiquer de A à Z la création d'un projet en utilisant Git et GitHub.
+#Mon premier projet Git
+Ce repository a été créé lors d’un projet étudiant pour tester Git et ses fonctionnalités.
